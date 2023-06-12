@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcast1030
 - 👀 I’m interested in coding and devoloping programs
-- 🌱 I’m currently learning c and python
-- 💞️ I’m looking to collaborate on c projects and new code.
+- 🌱 I’m currently learning JavaSript and React
+- 💞️ I’m looking to collaborate on JavaScript projects and new code.
 - 📫 How to reach me: jc.thecr@gmail.com
 
 <!---

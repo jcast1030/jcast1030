@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j0ses
+- 👋 Hi, I’m @Joses
 - 👀 I’m interested in coding and devoloping programs
 - 🌱 I’m currently learning JavaSript and React
 - 💞️ I’m looking to collaborate on JavaScript projects and new code.
